@@ -43,9 +43,8 @@ This profile is a work in progress… just like me. More projects dropping soon.
 
 ### 🌟 Live Activity on the Grid
 
-![GitHub Stats](<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riturajjhaba938&theme=tokyo-night&hide_border=true" />
-</p>)
+![GitHub Stats](
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riturajjhaba938&theme=tokyo-night&hide_border=true" />)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riturajjhaba938&theme=radical&layout=compact)
 
