@@ -1,19 +1,7 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/NEON%20GRID%20-%20ACTIVE-%2300F7FF?style=for-the-badge&logo=github&logoColor=white&color=00F7FF" alt="Neon Grid Active">
-  
-  <h1 style="font-size: 3.5em; background: linear-gradient(90deg, #00f7ff, #ff00ff); 
-    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
-    text-shadow: 0 0 20px #00f7ff, 0 0 40px #ff00ff; margin: 0.2em 0 0.1em;">
-    RITURAJ JHA
-  </h1>
-  
-  <h3 style="color: #c0fffc; letter-spacing: 3px; text-shadow: 0 0 10px #00f7ff;">
-    ASPIRING FULL STACK DEVELOPER
-  </h3>
-  
-  <p style="font-size: 1.3em; max-width: 700px; color: #a0f7ff; text-shadow: 0 0 8px #00f7ff;">
-    Learning by building, breaking, and rebuilding • Strong fundamentals only
-  </p>
+  <h1>⚡ RITURAJ JHA</h1>
+  <h3>🚀 ASPIRING FULL STACK DEVELOPER</h3>
+  <p>Learning by building, breaking, and rebuilding • Strong fundamentals only</p>
 </div>
 
 ---
@@ -52,24 +40,22 @@ This profile is a work in progress… just like me. More projects dropping soon.
 
 ### 🌟 Live Activity on the Grid
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riturajjhaba938&theme=radical&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=28)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riturajjhaba938&theme=radical&hide_title=false&show_icons=true&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riturajjhaba938&theme=radical&layout=compact)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=riturajjhaba938&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=riturajjhaba938&theme=radical&column=4)
 
 ---
 
 ### 🔗 Connect with me
 
 [![X](https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jha_rituraj25)
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rituraj-jha-0048ab372/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rituraj-jha-0048ab372/)
 
 ---
 
 **More projects are coming.**  
 The grid is expanding. Stay tuned. ✨
 
-*Made with pure determination and neon energy*
+*Made with determination and neon energy*
