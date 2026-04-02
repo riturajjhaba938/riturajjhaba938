@@ -34,9 +34,6 @@ Aspiring Full Stack Developer with a strong passion for the **MERN stack.
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="neon divider">
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="neon divider">
-</div>
 
 ### 📡 CONNECT WITH THE DEVELOPER
 <div align="center">
