@@ -18,15 +18,21 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="cyber coding gif" />
 
-### ⚡ WHO AM I? THE NEON RENEGADE
-- 🔋 Learning in public and grinding daily at **CodingGita**
-- 💥 Aspiring **Full Stack Developer** obsessed with the **MERN Stack**
-- 🔥 Focused on **strong fundamentals**, clean logic, and real understanding — no hype, just consistent progress
-- 🛠️ Currently building, breaking, and rebuilding projects to level up fast
-- 🧠 Grinding **DSA**, system design, and turning every bug into a lesson
-- 💡 Passionate about scalable apps, performance, and making code that actually shines
+### ⚡ WHO AM I?
+Aspiring Full Stack Developer with a strong passion for the **MERN stack**. Currently focused on building scalable, high-performance web applications while continuously strengthening my technical foundation through hands-on projects and structured learning at **CodingGita**.
+
+- 🔋 Actively learning in public and maintaining consistent daily progress at CodingGita
+- 💥 Specializing in modern web development using the MERN stack
+- 🔥 Committed to writing clean, maintainable code with strong fundamentals and logical clarity
+- 🛠️ Building, testing, and iterating on real-world projects to accelerate skill development
+- 🧠 Regularly practicing DSA, system design, and problem-solving to sharpen analytical thinking
+- 💡 Passionate about creating performant, user-friendly applications that deliver real value
 
 <br clear="right"/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="neon divider">
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="neon divider">
@@ -59,6 +65,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </div>
 
 **Backend — Server Breach**
