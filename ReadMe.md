@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=37&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%20%F0%9F%91%BE%2C%20I'm%20RITURAJ%20JHA;Aspiring%20Full%20Stack%20Developer;Neon%20Grid%20Renegade%20%40%20CodingGita;Building%20%E2%80%A2%20Breaking%20%E2%80%A2%20Rebuilding;No%20Hype%20%E2%80%94%20Just%20Consistent%20Progress" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=37&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%20%F0%9F%91%BE%2C%20I'm%20RITURAJ%20JHA;Aspiring%20Full%20Stack%20Developer;Building%20%E2%80%A2%20Breaking%20%E2%80%A2%20Rebuilding;No%20Hype%20%E2%80%94%20Just%20Consistent%20Progress" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -19,14 +19,14 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="cyber coding gif" />
 
 ### ⚡ WHO AM I?
-Aspiring Full Stack Developer with a strong passion for the **MERN stack**. Currently focused on building scalable, high-performance web applications while continuously strengthening my technical foundation through hands-on projects and structured learning at **CodingGita**.
+Aspiring Full Stack Developer with a strong passion for the **MERN stack.
 
 - 🔋 Actively learning in public and maintaining consistent daily progress at CodingGita
 - 💥 Specializing in modern web development using the MERN stack
 - 🔥 Committed to writing clean, maintainable code with strong fundamentals and logical clarity
 - 🛠️ Building, testing, and iterating on real-world projects to accelerate skill development
 - 🧠 Regularly practicing DSA, system design, and problem-solving to sharpen analytical thinking
-- 💡 Passionate about creating performant, user-friendly applications that deliver real value
+- 💡 Passionate about creating performant, user-friendly applications that deliver <br> real value
 
 <br clear="right"/>
 
@@ -38,7 +38,7 @@ Aspiring Full Stack Developer with a strong passion for the **MERN stack**. Curr
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="neon divider">
 </div>
 
-### 📡 CONNECT WITH THE HACKER
+### 📡 CONNECT WITH THE DEVELOPER
 <div align="center">
   <a href="https://portfolio-six-tan-thzy1lhz41.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=00F7FF" alt="Portfolio" />
@@ -52,7 +52,7 @@ Aspiring Full Stack Developer with a strong passion for the **MERN stack**. Curr
 ### 🧬 WEAPONS IN THE ARSENAL
 
 **Frontend — Visual Overload**
-<div align="left">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px; margin: 12px 0;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -61,18 +61,18 @@ Aspiring Full Stack Developer with a strong passion for the **MERN stack**. Curr
 </div>
 
 **Backend — Server Breach**
-<div align="left">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px; margin: 12px 0;">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 </div>
 
 **Database — Memory Core**
-<div align="left">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px; margin: 12px 0;">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
 **Tools — Cyber Armory**
-<div align="left">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px; margin: 12px 0;">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
