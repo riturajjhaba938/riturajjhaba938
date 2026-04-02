@@ -86,9 +86,13 @@
 ### 🌐 LIVE FEED FROM THE NEON GRID
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riturajjhaba938&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a2e&title_color=00f7ff&icon_color=ff00ff&text_color=c0fffc" height="195" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajjhaba938&layout=compact&theme=radical&hide_border=true&bg_color=0a0a2e&title_color=ff00ff&text_color=00f7ff&langs_count=8" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=riturajjhaba938&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=FFFFFF" height="180" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riturajjhaba938&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=FFFFFF&langs_count=8" height="180" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
 </div>
 
 ### 🔥 STREAK & CONTRIBUTION HEATMAP
@@ -106,13 +110,15 @@
 
 ### 🐍 THE GRID EXPANDS — CONTRIBUTION SNAKE
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riturajjhaba938/riturajjhaba938/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riturajjhaba938/riturajjhaba938/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/riturajjhaba938/riturajjhaba938/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=130&section=footer&text=THE%20GRID%20IS%20EXPANDING...%20MORE%20PROJECTS%20DROPPING%20SOON&fontSize=22&fontColor=000000" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
 </div>
+
+
 
 *Made with pure neon energy, determination, and late-night commits. Welcome to the grid.*
