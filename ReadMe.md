@@ -40,16 +40,8 @@ Aspiring Full Stack Developer with a strong passion for the **MERN stack**. Curr
 
 ### 📡 CONNECT WITH THE HACKER
 <div align="center">
-  <a href="https://x.com/jha_rituraj25" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white&color=00F7FF" alt="X" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/your-linkedin-here" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=ff00ff" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:rituraj.jha.cg@gmail.com@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ffff00" alt="Email" />
+  <a href="https://portfolio-six-tan-thzy1lhz41.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=00F7FF" alt="Portfolio" />
   </a>
 </div>
 
