@@ -47,7 +47,7 @@ Aspiring Full Stack Developer with a strong passion for the **MERN stack.
 </div>
 
 ### 🧬 WEAPONS IN THE ARSENAL
-  
+  <div align="center">
 **Frontend — Visual Overload**  
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin: 12px 0;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -78,6 +78,8 @@ Aspiring Full Stack Developer with a strong passion for the **MERN stack.
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="neon divider">
 </div>
+</div>
+
 ### 🌐 LIVE FEED FROM THE NEON GRID
 
 <div align="center">
