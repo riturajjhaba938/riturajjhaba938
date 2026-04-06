@@ -47,42 +47,37 @@ Aspiring Full Stack Developer with a strong passion for the **MERN stack.
 </div>
 
 ### 🧬 WEAPONS IN THE ARSENAL
-
-**Frontend — Visual Overload**
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px; margin: 12px 0;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> &nbsp;
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> &nbsp;
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> 
+  
+**Frontend — Visual Overload**  
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin: 12px 0;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </div>
-<br>
 
-**Backend — Server Breach**
-<br>
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px; margin: 12px 0;">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> &nbsp;
+**Backend — Server Breach**  
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin: 12px 0;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 </div>
-<br>
-**Database — Memory Core**
-<br>
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px; margin: 12px 0;">
+
+**Database — Memory Core**  
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin: 12px 0;">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
-<br>
-**Tools — Cyber Armory**
-<br>
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px; margin: 12px 0;">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> &nbsp;
+
+**Tools — Cyber Armory**  
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin: 12px 0;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div>
-<br>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="neon divider">
 </div>
-
 ### 🌐 LIVE FEED FROM THE NEON GRID
 
 <div align="center">
@@ -96,14 +91,15 @@ Aspiring Full Stack Developer with a strong passion for the **MERN stack.
 </div>
 
 ### 🔥 STREAK & CONTRIBUTION HEATMAP
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=riturajjhaba938&theme=radical&hide_border=true&background=0a0a2e&ring=00f7ff&fire=ff00ff&currStreakLabel=00f7ff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=riturajjhaba938&theme=radical&hide_border=true&background=0a0a2e&ring=00f7ff&fire=ff00ff&currStreakLabel=00f7ff&sideNums=00f7ff&stroke=ff00ff" alt="GitHub Streak" />
 </div>
-<br>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riturajjhaba938&bg_color=0a0a2e&color=00f7ff&line=ff00ff&point=c0fffc&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riturajjhaba938&bg_color=0a0a2e&color=00f7ff&line=ff00ff&point=00f7ff&area=true&area_color=ff00ff&hide_border=true" alt="Contribution Graph" />
 </div>
-<br>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="neon divider">
 </div>
