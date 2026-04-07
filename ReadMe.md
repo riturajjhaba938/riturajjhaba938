@@ -21,12 +21,12 @@
 ### ⚡ WHO AM I?
 Aspiring Full Stack Developer with a strong passion for the **MERN stack.
 
--🔋 Progress: Learning in public with daily growth at CodingGita.
--💥 Specialty: Modern web development using MongoDB, Express, React, & Node.
--🔥 Code Quality: Writing clean, maintainable code with logical clarity.
--🛠️ Projects: Building and iterating on real-world, scalable applications.
--🧠 Logic: Sharp focus on DSA, system design, and problem-solving.
--💡 Goal: Creating high-performance, user-centric solutions that deliver value.
+- 🔋 Progress: Learning in public with daily growth at CodingGita.
+- 💥 Specialty: Modern web development using MongoDB, Express, React, & Node.
+- 🔥 Code Quality: Writing clean, maintainable code with logical clarity.
+- 🛠️ Projects: Building and iterating on real-world, scalable applications.
+- 🧠 Logic: Sharp focus on DSA, system design, and problem-solving.
+- 💡 Goal: Creating high-performance, user-centric solutions that deliver value.
 
 <br clear="right"/>
 
