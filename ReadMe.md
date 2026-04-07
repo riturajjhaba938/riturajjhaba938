@@ -21,12 +21,12 @@
 ### ⚡ WHO AM I?
 Aspiring Full Stack Developer with a strong passion for the **MERN stack.
 
-- 🔋 Actively learning in public and maintaining consistent daily progress at CodingGita
-- 💥 Specializing in modern web development using the MERN stack
-- 🔥 Committed to writing clean, maintainable code with strong fundamentals and logical clarity
-- 🛠️ Building, testing, and iterating on real-world projects to accelerate skill development
-- 🧠 Regularly practicing DSA, system design, and problem-solving to sharpen analytical thinking
-- 💡 Passionate about creating performant, user-friendly applications that deliver <br> real value
+-🔋 Progress: Learning in public with daily growth at CodingGita.
+-💥 Specialty: Modern web development using MongoDB, Express, React, & Node.
+-🔥 Code Quality: Writing clean, maintainable code with logical clarity.
+-🛠️ Projects: Building and iterating on real-world, scalable applications.
+-🧠 Logic: Sharp focus on DSA, system design, and problem-solving.
+-💡 Goal: Creating high-performance, user-centric solutions that deliver value.
 
 <br clear="right"/>
 
@@ -48,6 +48,8 @@ Aspiring Full Stack Developer with a strong passion for the **MERN stack.
 
 ### 🧬 WEAPONS IN THE ARSENAL
   <div align="center">
+<br>
+    
 **Frontend — Visual Overload**  
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin: 12px 0;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -56,17 +58,20 @@ Aspiring Full Stack Developer with a strong passion for the **MERN stack.
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </div>
+<br>
 
 **Backend — Server Breach**  
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin: 12px 0;">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 </div>
+<br>
 
 **Database — Memory Core**  
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin: 12px 0;">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
+<br>
 
 **Tools — Cyber Armory**  
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin: 12px 0;">
@@ -85,7 +90,7 @@ Aspiring Full Stack Developer with a strong passion for the **MERN stack.
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=riturajjhaba938&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=FFFFFF" height="180" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riturajjhaba938&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=FFFFFF&langs_count=8" height="180" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riturajjhaba938&layout=compact&theme=chartreuse-dark&hide_border=true&background=0f172a&title_color=00C853&text_color=FFFFFF&langs_count=8" height="180" alt="Most Used Languages" />
 </div>
 
 <div align="center">
@@ -94,17 +99,13 @@ Aspiring Full Stack Developer with a strong passion for the **MERN stack.
 
 ### 🔥 STREAK & CONTRIBUTION HEATMAP
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=riturajjhaba938&theme=radical&hide_border=true&background=0a0a2e&ring=00f7ff&fire=ff00ff&currStreakLabel=00f7ff&sideNums=00f7ff&stroke=ff00ff" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riturajjhaba938&background=0D1117&border=0D1117&stroke=00C853&ring=00C853&fire=00C853&currStreakLabel=FFFFFF&currStreakNum=00C853&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riturajjhaba938&bg_color=0a0a2e&color=00f7ff&line=ff00ff&point=00f7ff&area=true&area_color=ff00ff&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="neon divider">
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riturajjhaba938&bg_color=0D1117&color=FFFFFF&line=00C853&point=00C853&area=true&hide_border=true&font_color=FFFFFF" alt="Activity Graph" />
+</p>
 
 ### 🐍 THE GRID EXPANDS — CONTRIBUTION SNAKE
 <picture>
