@@ -40,16 +40,8 @@ Aspiring Full Stack Developer with a strong passion for the **MERN stack**, curr
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=00F7FF&labelColor=000000" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/rituraj-jha-0048ab372/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Riturajjhaba/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000" alt="LeetCode" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/jha_rituraj25" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&color=00F7FF&labelColor=000000" alt="X (Twitter)" />
+  <a href="https://drive.google.com/file/d/1xL8EljuTUblfsk3YRJs54NhnNq0tg_-p/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white&color=00F7FF&labelColor=000000" alt="Resume" />
   </a>
 </div>
 
@@ -57,24 +49,6 @@ Aspiring Full Stack Developer with a strong passion for the **MERN stack**, curr
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="neon divider">
 </div>
 
-### 🚀 FEATURED PROJECTS
-
-<div align="center">
-
-| Project | Description | Tech |
-|:-------:|:------------|:----:|
-| [**Aether**](https://github.com/riturajjhaba938/Aether) | AI-powered Study Ecosystem — transforms YouTube tutorials & PDFs into active knowledge mastery | `React` `Node.js` `AI` |
-| [**CURA**](https://github.com/riturajjhaba938/CURA) | Crowdsourced treatment intelligence platform that turns patient narratives into validated medical intelligence | `MERN` `NLP` |
-| [**GapGraph**](https://github.com/riturajjhaba938/GapGraph) | AI-native onboarding engine with Multi-Agent architecture for dynamic, personalized training journeys | `TypeScript` `AI Agents` |
-| [**AI-Study-Planner**](https://github.com/riturajjhaba938/AI-Study-Planner) | Intelligent productivity tool using generative AI for automated scheduling ⭐ | `JavaScript` `GenAI` |
-| [**Aadhaar-Plus**](https://github.com/riturajjhaba938/aadhaar-plus) | Lifecycle health monitor for India's digital identity ecosystem with cross-dataset analytics | `JavaScript` `Analytics` |
-| [**Portfolio**](https://github.com/riturajjhaba938/Portfolio) | Personal portfolio showcasing my Full Stack Developer journey, projects & skills | `JavaScript` `CSS` |
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="neon divider">
-</div>
 
 ### 🧬 WEAPONS IN THE ARSENAL
   <div align="center">
